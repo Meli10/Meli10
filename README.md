@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Meli10
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning how to reverse engineer social media websites.
+- 💞️ I’m looking to collaborate on anything and everything.
+- 📫 How to reach me -> anthonymeli@live.com
