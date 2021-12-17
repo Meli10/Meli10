@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Meli10
-- 👀 I’m interested in software development.
+- 👋 Hi, I’m Anthony!
+- 👀 I’m interested in AI, web design, cybersecurity and game dev.
 - 🌱 I’m currently learning how to reverse engineer social media websites.
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me -> anthonymeli@live.com
+- 📫 You can reach me at -> anthonymeli@live.com
