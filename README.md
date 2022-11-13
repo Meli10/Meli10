@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on some pretty cool stuff 😉
 
-- 👯 I’m looking to collaborate on **Anything and everything Python related**
+- 👯 I’m looking to collaborate on **just about anything**
 
-- 💬 Ask me related to **HTML, CSS, Git, Python**
+- 💬 Ask me anything related to **HTML, CSS, Git, Python**
 
 - 📫 How to reach me **AnthonyMeli@live.com**
 
