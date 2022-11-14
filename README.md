@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **just about anything**
 
-- 💬 Ask me anything related to **HTML, CSS, Git, Python**
+- 💬 Ask me anything related to **the languages and tools I have listed below**
 
 - 📫 How to reach me **AnthonyMeli@live.com**
 
