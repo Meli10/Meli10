@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **AnthonyMeli@live.com**
 
-- ⚡ Fun fact **Not only am I a programmer with a sense of humor, but I also used to bartend.**
+- ⚡ Fun fact: **When using Python, if you type `import this` a poem will appear**
 
 <h3 align="left">Connect with me:</h3>
 
